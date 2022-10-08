@@ -83,7 +83,7 @@ nav.hidden{
 /* Тело */
 
 .page-1 {
-	background-color: #181819;
+	background-color: #898AA6;
 	display: flex;
 	height: 937px;
   width: 100%;
@@ -100,19 +100,19 @@ nav.hidden{
   animation-duration: 1000ms;
 }
 .page-2 {
-	background-color: #0F0F0F;
+	background-color: #C9BBCF;
 	display: block;
 	height: 937px;
 	text-align: center;
 }
 .page-3 {
-	background-color: #181819;
+	background-color: #B7D3DF;
 	display: block;
 	height: 937px;
 	text-align: center;
 }
 .page-4 {
-	background-color: #0F0F0F;
+	background-color: #D6EFED;
 	display: block;
 	height: 937px;
 	text-align: center;
