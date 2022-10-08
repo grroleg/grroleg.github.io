@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2019 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="23.6747mm" height="3.4694mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 76.77 11.25"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <font id="FontID0" horiz-adv-x="595" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="800">
+	<font-face 
+		font-family="Fira Sans ExtraBold">
+		<font-face-src>
+			<font-face-name name="Fira Sans ExtraBold"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="." horiz-adv-x="240" d="M119.991 175.003c-54.0011,0 -96.9828,-43.9931 -96.9828,-97.0039 0,-52.9898 42.9818,-95.9926 96.9828,-95.9926 54.0011,0 97.0039,43.0028 97.0039,95.9926 0,53.0108 -43.0028,97.0039 -97.0039,97.0039z"/>
+   <glyph unicode="G" horiz-adv-x="649" d="M368 712.991c-192.997,0 -341.01,-129.999 -341.01,-364.987 0,-237.011 103.009,-365.998 326.008,-365.998 86.9959,0 183.01,28.0013 255.994,75.9976l0 346.003 -275.989 0 17.9933 -127.007 79.0106 0 0 -142.999c-25.0095,-12.9999 -51.0092,-19.0047 -82.0024,-19.0047 -88.0072,0 -129.999,56.0027 -129.999,231.996 0,163.015 62.9978,235.009 160.002,235.009 54.0011,0 90.9991,-17.9933 137.984,-51.9995l90.9991 95.0023c-56.993,49.9979 -134.992,87.9862 -238.991,87.9862z"/>
+   <glyph unicode="K" horiz-adv-x="645" d="M238.991 694.998l-184.99 0 0 -694.998 184.99 0 0 694.998zm405.019 0l-193.018 0 -205.996 -324.997 205.006 -370.001 212.001 0 -227.003 385.003 209.009 309.995z"/>
+   <glyph unicode="L" horiz-adv-x="517" d="M238.991 694.998l-184.99 0 0 -694.998 432.009 0 19.9949 144.01 -267.014 0 0 550.988z"/>
+   <glyph unicode="O" horiz-adv-x="690" d="M344.992 712.991c-201.993,0 -318.002,-138.995 -318.002,-364.987 0,-231.006 116.009,-365.998 318.002,-365.998 202.014,0 319.013,139.986 319.013,365.998 0,230.985 -116.999,364.987 -319.013,364.987zm0 -132.991c86.0056,0 126.017,-64.0091 126.017,-231.996 0,-168.008 -38.9996,-233.007 -126.017,-233.007 -83.983,0 -125.996,64.9994 -125.996,233.007 0,167.987 41.0012,231.996 125.996,231.996z"/>
+   <glyph unicode="R" horiz-adv-x="619" d="M426.004 0l205.996 0 -173.002 290c86.9959,45.9947 127.997,99.0055 127.997,188.993 0,148.013 -97.9942,216.004 -292.002,216.004l-240.993 0 0 -694.998 184.99 0 0 255.994 51.0092 0 136.004 -255.994zm-187.013 565.99l51.9995 0c70.0139,0 106.001,-26.99 106.001,-86.9959 0,-67.001 -32.9948,-97.0039 -95.9926,-97.0039l-62.0075 0 0 184z"/>
+   <glyph unicode="Z" horiz-adv-x="549" d="M521.997 694.998l-478.994 0 0 -142.008 268.004 0 -297.017 -415.996 0 -136.994 497.008 0 19.0047 145.99 -296.995 0 288.989 410.012 0 138.995z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Fira Sans ExtraBold";font-variant:normal;font-style:normal;font-weight:800;src:url("#FontID0") format(svg)}
+    .fil0 {fill:#E6E7E8}
+    .fil1 {fill:#FF2F2F}
+    .fnt0 {font-weight:800;font-size:15.39px;font-family:'Fira Sans ExtraBold'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <text x="-0.42" y="10.97"  class="fil0 fnt0">G</text>
+  <text x="9.57" y="10.97"  class="fil0 fnt0">R</text>
+  <text x="19.12" y="10.97"  class="fil0 fnt0">R</text>
+  <text x="28.44" y="10.97"  class="fil0 fnt0">O</text>
+  <text x="39.06" y="10.97"  class="fil0 fnt0">L</text>
+  <text x="47.02" y="10.97"  class="fil0 fnt0">L</text>
+  <text x="54.97" y="10.97"  class="fil1 fnt0">.</text>
+  <text x="58.67" y="10.97"  class="fil0 fnt0">K</text>
+  <text x="68.61" y="10.97"  class="fil0 fnt0">Z</text>
+ </g>
+</svg>
